@@ -7,5 +7,7 @@
 <img width="354" height="222" alt="image" src="https://github.com/user-attachments/assets/71d04547-6a22-4429-9873-ad36f1915919" />
 
 ### Project 3: Number Guessing Game
+<img width="455" height="649" alt="image" src="https://github.com/user-attachments/assets/7d2ae2c0-f0e6-4abe-ac8c-badeb5f58050" />
+
 
 
