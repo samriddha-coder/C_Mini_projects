@@ -8,6 +8,7 @@
 
 ### Project 3: Number Guessing Game
 <img width="455" height="649" alt="image" src="https://github.com/user-attachments/assets/7d2ae2c0-f0e6-4abe-ac8c-badeb5f58050" />
-
+### Project 4: Rock Paper Scissors Game
+<img width="439" height="265" alt="image" src="https://github.com/user-attachments/assets/926b54c9-9c1b-4ef3-be1b-ea426395b5e9" />
 
 
