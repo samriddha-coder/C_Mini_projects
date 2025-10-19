@@ -15,5 +15,5 @@
 
 ### 🌡️ Project 5: Temperature Converter
 <img width="428" height="255" alt="image" src="https://github.com/user-attachments/assets/40c7ce9d-4a8a-4ec5-ada0-68e088c9aa35" />
-### 🧠 Project 6: ATM Machine Simulation
-### 🎯 Project 7: Simple Quiz Game
+### 💳 Project 6: ATM Machine Simulation
+### ❓ Project 7: Simple Quiz Game
